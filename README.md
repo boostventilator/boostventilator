@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on fun stuff.
 - 🤔 I’m looking for help with keeping sane.
 - 💬 Ask me about my plans.
-- 📫 How to reach me: <a rel="me" href="https://xoxo.zone/@boostventilator">Mastodon</a>
+- 📫 How to reach me: <a rel="me" href="https://xoxo.zone/@boostventilator">Mastodon (@boostventilator@xoxo.zone)</a>
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I don't have any plans.
